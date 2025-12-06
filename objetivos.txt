@@ -1,3 +1,4 @@
 Objetivos propios:
 
 1- repasar conceptos de html, css, js y git
+2- aprender angular
